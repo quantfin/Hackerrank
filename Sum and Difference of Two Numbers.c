@@ -12,7 +12,7 @@ int main()
     float c, d;
 
     scanf("%d %d",&a,&b);
-    printf("%d %d" , a+b , a-b);
+    printf("%d %d\n", a+b , a-b);
 
     scanf("%f %f",&c ,&d);
     printf("%f %f",c+d ,c-d);
