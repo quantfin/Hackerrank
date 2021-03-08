@@ -1,3 +1,6 @@
+//Author : Akash Ranjan
+//https://www.linkedin.com/in/ranjan-akash/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
