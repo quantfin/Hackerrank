@@ -1,0 +1,19 @@
+// Author : Akash Ranjan
+// https://www.linkedin.com/in/ranjan-akash/
+
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+	
+    char s[100];
+    scanf("%[^\n]%*c", &s);  // this will read string from user
+  	
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    printf("Hello, World!\n");  // as per the problem we have to print exactly the same .
+    printf("%s",s);  // Now string read earlier in line 13 will be printed here.
+    return 0;
+}
